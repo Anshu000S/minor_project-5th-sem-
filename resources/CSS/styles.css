@@ -1,0 +1,45 @@
+#signin-header {
+    color: #2BBBAD;
+}
+#form-container {
+    background-color: #e3eeff;
+}
+#floating-test {
+    display: flex;
+}
+
+.icon {
+    padding: 10px;
+    min-width: 50px;
+    text-align: center;
+    size: 20px;
+    color: #49b1a3; 
+  }
+
+  #submit-icon{
+      color: #e3eeff;
+  }
+  #submit-icon-1{
+    color: #56d3cd;
+}
+ 
+
+form label{
+    font-weight:bold;
+    color:#49b1a3; 
+}
+
+.form-control:focus {
+    border-color:#49b1a3;
+    box-shadow: inset 0 1px 1px rgba(62, 119, 65, 0.075), 0 0 8px rgba(0, 255, 200, 0.6);
+  }
+
+body{
+    background-color: #cfe7e5;
+}
+
+.anyclass{
+    height: 350px;
+    overflow-y: scroll;
+}
+
